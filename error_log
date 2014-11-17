@@ -1,0 +1,2 @@
+[17-Nov-2014 14:32:59 US/Central] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mforged/public_html/workshop/encryption/cryptarticle/test.php on line 7
+[17-Nov-2014 14:33:20 US/Central] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/mforged/public_html/workshop/encryption/cryptarticle/test.php on line 109
