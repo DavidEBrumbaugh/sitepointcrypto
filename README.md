@@ -1,4 +1,4 @@
-#PHP Crypto Article for Sitepoint Source Code
+#PHP Source Code for Sitepoint Crypto Article 
 
 This is the source code for the PHP cryptography article I wrote for SitePoint.
 
